@@ -1,0 +1,1 @@
+Converting some vanilla JS to programs interpreted by Vue framework 
